@@ -1,0 +1,30 @@
+{
+  "name": "leaflet-geometrify",
+  "homepage": "https://github.com/Lemaf/leaflet-geometrify",
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "leaflet",
+    "geometry",
+    "clip",
+    "intersection",
+    "test"
+  ],
+  "authors": [
+    "rthoth <ronaldo.silva@lemaf.ufla.br>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.7"
+  }
+}

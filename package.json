@@ -1,0 +1,39 @@
+{
+  "name": "leaflet-geometrify",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lemaf/leaflet-geometrify.git"
+  },
+  "keywords": [
+    "leaflet",
+    "geometry",
+    "clip",
+    "intersection",
+    "test"
+  ],
+  "author": "rthoth <ronaldo.silva@lemaf.ufla.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lemaf/leaflet-geometrify/issues"
+  },
+  "homepage": "https://github.com/Lemaf/leaflet-geometrify",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-resolve-dependencies": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "jshint": "^2.8.0"
+  },
+  "dependencies": {}
+}

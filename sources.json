@@ -1,0 +1,6 @@
+{
+	"js": [
+		"L.geometrify.js",
+		"L.geometrify.Polygon.js"
+	]
+}
